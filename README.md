@@ -29,3 +29,8 @@ What is the asymptotic runtime ($\Theta$) of your algorithm in terms of the
 number of comparisons? What is it in terms of the number of flips? Add your
 answer to this markdown file.
 
+References:
+
+The following website gave me the understading of the code. Everything is done myself despite doing it last time. 
+
+https://www.geeksforgeeks.org/pancake-sorting/
